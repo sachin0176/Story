@@ -1,1 +1,1 @@
-I am learning versin control using git.
+It is an align story for user.
